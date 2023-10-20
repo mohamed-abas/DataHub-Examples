@@ -17,7 +17,7 @@ I used Python, datahub API, datahub GraphQL, and datahub CLI tool to create the 
 	
 	-Add Dashboard, Charts, and Link to The Dashboard.
 	
-	Images of the output:- 
+# Images of the output:- 
 	
 ![](images/1.png)
 ![](images/2.png)
